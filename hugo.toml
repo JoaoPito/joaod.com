@@ -1,0 +1,11 @@
+baseURL = 'https://joaod.com/'
+languageCode = 'en-us'
+title = '> joaod'
+theme = ['github.com/akopdev/hugo-theme-chicago7']
+
+author = "joao pito"
+
+[[menu.header]]
+name = "Posts"
+url = "posts"
+weight = 30
