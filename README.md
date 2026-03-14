@@ -1,2 +1,2 @@
-# joaod-blog
-The personal blog hosted at joaod.com
+# joaod.com
+My personal blog.
