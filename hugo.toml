@@ -15,8 +15,8 @@ url = "guides"
 weight = 20
 
 [[menu.header]]
-name = "Posts"
-url = "posts"
+name = "Journal"
+url = ""
 weight = 10
 
 [[menu.header]]

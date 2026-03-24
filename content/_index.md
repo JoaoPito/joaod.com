@@ -9,5 +9,3 @@ title = 'Journal'
 > ― Neal Stephenson
 
 Here I'll be writing about some random thoughts and things i have learned or worked on lately.
-
-Feel free to take a look at my **[/posts](posts/)**.
