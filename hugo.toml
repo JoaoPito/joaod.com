@@ -2,10 +2,34 @@ baseURL = 'https://joaod.com/'
 languageCode = 'en-us'
 title = '> joaod'
 theme = ['github.com/akopdev/hugo-theme-chicago7']
+pagination.pagerSize = 10
+author = "joaop"
 
-author = "joao pito"
+[permalinks]
+posts = "/posts/:year:month:day"
+
+[menu]
+[[menu.header]]
+name = "Guides"
+url = "guides"
+weight = 20
 
 [[menu.header]]
 name = "Posts"
 url = "posts"
+weight = 10
+
+[[menu.header]]
+name = "Contacts"
+url = "contacts"
+weight = 40
+
+[[menu.header]]
+name = "What is this site?"
+url = "what-is-this"
+weight = 30
+
+[[menu.header]]
+name = "Now"
+url = "now"
 weight = 30
