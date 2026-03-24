@@ -5,7 +5,8 @@ title = 'Journal'
 +++
 
 # Journal
-> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." - Richard Feynman
+> “Well, all information looks like noise until you break the code.”
+> ― Neal Stephenson
 
 Here I'll be writing about some random thoughts and things i have learned or worked on lately.
 
