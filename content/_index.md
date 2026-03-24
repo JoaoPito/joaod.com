@@ -6,6 +6,6 @@ title = 'Journal'
 
 # Journal
 > “Well, all information looks like noise until you break the code.”
-> ― Neal Stephenson
+> ― Neal Stephenson, Snow Crash
 
 Here I'll be writing about some random thoughts and things i have learned or worked on lately.
