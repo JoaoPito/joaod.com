@@ -45,8 +45,8 @@ jobs:
           go-version-file: go.mod
           cache: true
 
-      - name: Download Hugo modules
-        run: hugo mod download
+      - name: Download Hugo Theme
+        run: git submodule add https://github.com/akopdev/hugo-theme-chicago7.git themes/chicago7
 
       - name: Setup Pages
         id: pages
